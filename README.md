@@ -2,7 +2,7 @@
 
 <p align="center"><b> NikhilMusic is a Music powerfull bot for playing music on telegram voice chat groups. </b></p>
 
-<p align="center"><a href="https://t.me/emikosupport"><img src="https://telegra.ph/file/3199e020f1322c9728ca8.jpg" width="340"></a></p>
+<p align="center"><a href="https://t.me/DOST_HAI_SAB"><img src="https://telegra.ph/file/3199e020f1322c9728ca8.jpg" width="340"></a></p>
 
 <h3>Requirements</h3>
 
