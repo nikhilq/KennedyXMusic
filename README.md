@@ -1,8 +1,8 @@
-<p align="center"><b>🎵 KENNEDY X MUSIC 🎵</b></p>
+<p align="center"><b>🎵 NIKHIL MUSIC 🎵</b></p>
 
-<p align="center"><b> KennedyXMusic is a Music powerfull bot for playing music on telegram voice chat groups. </b></p>
+<p align="center"><b> NikhilMusic is a Music powerfull bot for playing music on telegram voice chat groups. </b></p>
 
-<p align="center"><a href="https://t.me/emikosupport"><img src="https://telegra.ph/file/d8f2eadbe79a4c949bb93.jpg" width="340"></a></p>
+<p align="center"><a href="https://t.me/emikosupport"><img src="https://telegra.ph/file/3199e020f1322c9728ca8.jpg" width="340"></a></p>
 
 <h3>Requirements</h3>
 
@@ -39,12 +39,5 @@ The easy way to host this bot, deploy to Heroku
 - vim .env #Fill up your ENVs ( Steps press i to enter in insert mode then edit the file. Press Esc to exit the editing mode then type :wq! and press Enter key to save the file.)
 - python3 main.py # Run the bot
 ```
-
-### Credits 🕊️
-- [Kennedy](https://github.com/KennedyProject) Dev
-- [Feri](https://github.com/FeriEXP) Dev
-- [RojSerBest](https://github.com/rojserbest) CallsMusic Developer
-- [Veez Music](https://github.com/levina-lab/veezmusic) Veez Music
-
 ### Support & Updates 🛵
 <a href="https://t.me/emikosupport"><img src="https://img.shields.io/badge/Join-Group%20Support-red.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/KennedyProject"><img src="https://img.shields.io/badge/Join-Updates%20Channel-white.svg?style=for-the-badge&logo=Telegram"></a>
